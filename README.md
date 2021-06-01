@@ -1,6 +1,5 @@
-# acl21-ArgKG-argument-generation
 
-# Paper: Employing Argumentation Knowledge Graphs for Neural Argument Generation
+# Employing Argumentation Knowledge Graphs for Neural Argument Generation
 
 This is the code for the paper *Employing Argumentation Knowledge Graphs for Neural Argument Generation*.
 
